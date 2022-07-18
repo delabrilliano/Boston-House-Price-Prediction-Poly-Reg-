@@ -1,4 +1,4 @@
-# **Boston House Price Prediction using Multiple Linear Regression**
+# **Boston House Price Prediction using Polynomial Regression**
 ![image](https://raw.githubusercontent.com/delabrilliano/Boston-House-Price-Prediction-Poly-Reg-/main/image/boston-house.jpg)
 
 Created by: _**Delabrilliano Ismail**_
